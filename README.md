@@ -1,16 +1,13 @@
 ## Hi there 👋
+안녕하세요 저는 컴퓨터소프트웨어 개발 분야에 관심 있는 윤설희입니다
 
-<!--
-**tjfgml12/tjfgml12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 현재 공부 중
+![MySQL](https://img.shields.io/badge/MySQL-1e90ff?style=flat-square&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-5382a1?style=plastic&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-ffd43b?style=for-the-badge&logo=python&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-3d9970?style=flat-square&logo=linux&logoColor=white)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 프로젝트
+영어 파트너 로봇
+- https://github.com/Triplelingo/-SEMS-Project
